@@ -73,28 +73,10 @@
 
 ---
 
-### 🦸‍♂️ DevOps Zoro — Slice Through the Code
-
-If DevOps were a pirate crew, I’d be **Zoro** 🏴‍☠️. Like him, I focus on achieving the impossible with precision, perseverance, and sometimes cutting through the toughest tasks with my "coding sword" ⚔️.
-
-![Zoro](https://media.giphy.com/media/3oz8xK9OU4JfK8rwEo/giphy.gif)
-
----
 
 ### ✍️ Quote to live by
 
 > “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
----
-
-### 🎨 Fun Facts
-
-- I'm an **anime** fan, and my favorite character is **Zoro** from **One Piece** 🏴‍☠️.  
-- My favorite drink is **coffee** — the essential fuel for any DevOps engineer ☕.  
-- I enjoy solving complex **cloud infrastructure** challenges and automating tedious tasks.  
-- I aim to **perfect** my code with the same precision as Zoro's sword strikes. ⚔️
 
 ---
 
