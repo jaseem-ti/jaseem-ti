@@ -22,6 +22,7 @@
   <img src="https://cdn.simpleicons.org/amazonaws" height="30" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="AWS" />
 
   <!-- Infrastructure as Code & Automation -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform" />
@@ -78,9 +79,3 @@
 > “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
-
-### 🔄 DevOps Animation
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/129972/screenshots/2692561/gear_animation.gif" alt="DevOps Gears Animation" width="300" />
-</p>
