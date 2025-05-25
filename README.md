@@ -19,7 +19,7 @@
 
 <div align="left">
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/amazonaws" height="30" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
 
@@ -40,9 +40,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="Apache" />
 
   <!-- Monitoring -->
+  <img src="https://img.shields.io/badge/Zabbix-monitoring-blue?logo=zabbix&style=flat-square" height="30" alt="Zabbix" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg" height="30" alt="Zabbix" />
 
   <!-- Scripting -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
@@ -53,15 +53,6 @@
   <img src="https://img.shields.io/badge/JFrog-Artifactory-green?logo=jfrog&logoColor=white&style=flat-square" alt="JFrog" height="30" />
   <img src="https://img.shields.io/badge/SonarQube-Code_Quality-blue?logo=sonarqube&style=flat-square" alt="SonarQube" height="30" />
   <img src="https://img.shields.io/badge/ArgoCD-GitOps-orange?logo=argo&logoColor=white&style=flat-square" alt="ArgoCD" height="30" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaseem-ti&show_icons=true&theme=radical&count_private=true" height="150" alt="Jaseem's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaseem-ti&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -88,4 +79,8 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### 🔄 DevOps Animation
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/129972/screenshots/2692561/gear_animation.gif" alt="DevOps Gears Animation" width="300" />
+</p>
