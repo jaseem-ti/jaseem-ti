@@ -41,7 +41,6 @@
 
   <!-- Monitoring -->
   <img src="https://img.shields.io/badge/Zabbix-monitoring-blue?logo=zabbix&style=flat-square" height="30" alt="Zabbix" />
-  <img src="https://commons.wikimedia.org/wiki/File:Zabbix_logo_square.svg" height="30" alt="Zabbix" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana" />
 
