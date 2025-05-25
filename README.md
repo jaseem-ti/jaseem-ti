@@ -19,7 +19,7 @@
 
 <div align="left">
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/amazonaws" height="30" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
 
@@ -82,5 +82,5 @@
 ### 🔄 DevOps Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/devops-gears.gif" alt="DevOps Gears Animation" width="300" />
+  <img src="https://cdn.dribbble.com/users/129972/screenshots/2692561/gear_animation.gif" alt="DevOps Gears Animation" width="300" />
 </p>
