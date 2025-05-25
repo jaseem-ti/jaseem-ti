@@ -1,72 +1,91 @@
-<h2 align="left">Hi 👋! My name is Jaseem, and I'm a Cloud & DevOps Engineer based in India.</h2>
+<h2 align="left">Hey there 👋, I'm Jaseem — a passionate Cloud & DevOps Engineer.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaseem-ti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+---
 
 ### 🧩 About Me
 
-- 🔧 I specialize in automating cloud infrastructure and CI/CD pipelines.
-- ☁️ Experienced in deploying and managing infrastructure on AWS using Terraform.
-- 📦 Skilled in containerizing applications with Docker and orchestrating them using Kubernetes (EKS).
-- 🔁 I work with tools like Jenkins, GitHub Actions, Maven, SonarQube, Nexus, and JFrog Artifactory.
-- 📊 Passionate about infrastructure monitoring with Prometheus and Grafana.
-- 🧰 I also work with Bash, Python, Apache, Nginx, and Linux-based environments.
+- 🔧 Focused on automating cloud infrastructure and building scalable CI/CD pipelines.  
+- ☁️ Skilled in provisioning AWS resources with Terraform and managing Kubernetes clusters (EKS).  
+- 📦 Experienced in containerizing apps with Docker and deploying them via GitOps tools like ArgoCD.  
+- 🔁 Proficient in CI/CD automation using Jenkins and GitHub Actions.  
+- 🛠️ Hands-on with build & artifact tools: Maven, Nexus, JFrog Artifactory.  
+- 🔍 Advocate for code quality & security with SonarQube integration.  
+- 📊 Monitoring enthusiast using Prometheus, Grafana, and Zabbix.  
+- 🐚 Comfortable scripting in Bash and Python, managing Linux environments, and configuring Apache & Nginx.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo" />
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
+
+  <!-- Infrastructure as Code & Automation -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible" />
+
+  <!-- CI/CD -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="30" alt="Maven" />
+
+  <!-- Containers & Orchestration -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="Apache" />
+
+  <!-- Monitoring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg" height="30" alt="Zabbix" />
+
+  <!-- Scripting -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="30" alt="YAML" />
+
+  <!-- Others -->
+  <img src="https://img.shields.io/badge/JFrog-Artifactory-green?logo=jfrog&logoColor=white&style=flat-square" alt="JFrog" height="30" />
+  <img src="https://img.shields.io/badge/SonarQube-Code_Quality-blue?logo=sonarqube&style=flat-square" alt="SonarQube" height="30" />
+  <img src="https://img.shields.io/badge/ArgoCD-GitOps-orange?logo=argo&logoColor=white&style=flat-square" alt="ArgoCD" height="30" />
 </div>
 
 ---
 
-### 🧪 Tools I Work With
+### 📊 GitHub Stats
 
-- **CI/CD:** Jenkins, GitHub Actions
-- **Build & Artifact:** Maven, Nexus, JFrog Artifactory
-- **Security & Quality:** SonarQube
-- **Git & Version Control:** Git, GitHub
-- **Monitoring:** Prometheus, Grafana
-- **GitOps & CD:** ArgoCD
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaseem-ti&show_icons=true&theme=radical&count_private=true" height="150" alt="Jaseem's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaseem-ti&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</div>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with me
 
 <div align="left">
-  <a href="mailto:jjaseemm128@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="mailto:jjaseemm128@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/jaseem-t-i/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="https://www.linkedin.com/in/jaseem-t-i/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/jaseem-ti" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="35" alt="GitHub" />
   </a>
 </div>
 
 ---
 
-<br clear="both">
+### ✍️ Quote to live by
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
